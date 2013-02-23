@@ -1,4 +1,4 @@
 CSE_110
 =======
 
-All the projects from CSE 110.
+All projects and labs done in CSE 110.
