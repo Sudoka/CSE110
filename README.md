@@ -1,4 +1,4 @@
-CSE_110
+CSE110
 =======
 
 All projects and labs done in CSE.
